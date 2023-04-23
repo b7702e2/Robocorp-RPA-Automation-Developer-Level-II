@@ -1,0 +1,1 @@
+This is the coding exercise for the Robocorp RPA Automation Developer Level II Certification.
